@@ -1,0 +1,30 @@
+﻿{
+  "name": "hfghfe",
+  "description": "erjdfgsk",
+  "keywords": [
+    "gjfgkf"
+  ],
+  "env": {
+    "PROTOCOL": {
+      "description": "协议VMess或VLESS，请填小写的vmess或vless",
+      "value": "vless",
+      "required": true
+    },
+    "UUID": {
+      "description": "用户的主ID",
+      "value": "",
+      "required": false
+    },
+    "WS_PATH": {
+      "description": "websocket路径",
+      "value": "/app",
+      "required": true
+    }
+  },
+  "website": "https://github.com/yeardfhd4dhfd/gdhdjdkfd8h",
+  "repository": "https://github.com/yeardfhd4dhfd/gdhdjdkfd8h",
+  "stack": "container",
+  "features": [
+    "runtime-dyno-metadata"
+  ]
+}
